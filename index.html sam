@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <title>Samantha's Page</title>
+        
+    </head>
+    <body style="background-color:#EDFEFF;">
+   
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-1">
+            </div>
+        <div class="col-sm-4">
+            <br>
+            <h3><font color=30668A> Hi, I'm Samantha Medina</font></h3>
+      <p><img src=alt alt="put picture of self here" style="width:250px;height:300px;"></p>
+      <br><br>
+      <p><li class="nav-item"><a class="nav-link" href="http://lamp.cse.fau.edu/~cen4010s2020_g14">Meet the team</a></li></p>
+    </div>
+    <div class="col-sm-4">  
+    	<br><br><br><br>
+      <p><i><font color=193344>I'm begining my senior year here at FAU, majoring in computer science. My arms are open to all opportunities after I graduate, but I would be interested in pursuing a career in cybersecurity or artificial intelligence and robotics. My time at FAU has strengthen my coding skills in C, C++, and Java. I have also learned a lot about algorithms and have become more interested as I enjoy the conveniency. I started playing with computers and the internet in middle school, making web pages for blogs. I am familiar with CSS, HTML, Javascript, and SQL. Aside from all of that, you can usually find me with my two Shih Tzu dogs somewhere outside or in the kitchen cooking it up!    </font></i></p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
